@@ -1,0 +1,201 @@
+Date,Order_ID,Category,Product,Units_Sold,Unit_Price,Total_Revenue,Region,Marketing_Spend,Customer_Rating
+2024-01-1,ORD-1000,Clothing,Clothing Item 6,6,22.71,136.26,South America,13.63,3.8
+2024-01-2,ORD-1001,Clothing,Clothing Item 2,3,14.84,44.52,South America,4.45,3.8
+2024-01-3,ORD-1002,Toys,Toys Item 9,20,46.21,924.20,North America,92.42,3.3
+2024-01-4,ORD-1003,Home,Home Item 9,15,38.99,584.85,Europe,58.49,4.6
+2024-01-5,ORD-1004,Clothing,Clothing Item 1,1,96.85,96.85,South America,9.69,4.7
+2024-01-6,ORD-1005,Home,Home Item 9,6,86.89,521.34,South America,52.13,4.4
+2024-01-7,ORD-1006,Home,Home Item 4,13,11.97,155.61,North America,15.56,4.4
+2024-01-8,ORD-1007,Electronics,Electronics Item 7,13,69.70,906.10,South America,90.61,3.9
+2024-01-9,ORD-1008,Electronics,Electronics Item 3,11,63.95,703.45,South America,70.35,4.9
+2024-01-10,ORD-1009,Books,Books Item 4,2,64.67,129.34,South America,12.93,3.4
+2024-01-11,ORD-1010,Books,Books Item 9,5,73.92,369.60,Asia,36.96,3.3
+2024-01-12,ORD-1011,Clothing,Clothing Item 2,20,73.00,1460.00,Europe,146.00,3.8
+2024-01-13,ORD-1012,Toys,Toys Item 3,17,92.69,1575.73,South America,157.57,3.1
+2024-01-14,ORD-1013,Home,Home Item 10,8,80.83,646.64,South America,64.66,4.4
+2024-01-15,ORD-1014,Home,Home Item 7,14,82.13,1149.82,Europe,114.98,3.7
+2024-01-16,ORD-1015,Clothing,Clothing Item 9,5,53.67,268.35,North America,26.84,4.0
+2024-01-17,ORD-1016,Clothing,Clothing Item 3,2,108.37,216.74,Asia,21.67,4.1
+2024-01-18,ORD-1017,Clothing,Clothing Item 4,16,54.44,871.04,South America,87.10,3.7
+2024-01-19,ORD-1018,Books,Books Item 4,1,65.64,65.64,Europe,6.56,3.9
+2024-01-20,ORD-1019,Toys,Toys Item 1,9,87.62,788.58,South America,78.86,4.1
+2024-01-21,ORD-1020,Books,Books Item 3,1,42.45,42.45,Europe,4.25,3.2
+2024-01-22,ORD-1021,Clothing,Clothing Item 6,6,29.88,179.28,North America,17.93,4.6
+2024-01-23,ORD-1022,Electronics,Electronics Item 9,8,76.83,614.64,South America,61.46,3.2
+2024-01-24,ORD-1023,Toys,Toys Item 1,9,37.75,339.75,South America,33.98,3.8
+2024-01-25,ORD-1024,Books,Books Item 1,11,105.08,1155.88,South America,115.59,4.5
+2024-01-26,ORD-1025,Toys,Toys Item 4,20,56.31,1126.20,South America,112.62,3.5
+2024-01-27,ORD-1026,Electronics,Electronics Item 4,20,82.60,1652.00,Asia,165.20,3.7
+2024-01-28,ORD-1027,Books,Books Item 9,15,49.64,744.60,Europe,74.46,3.5
+2024-01-1,ORD-1028,Toys,Toys Item 5,3,64.96,194.88,North America,19.49,4.7
+2024-01-2,ORD-1029,Clothing,Clothing Item 6,5,88.39,441.95,North America,44.20,4.7
+2024-02-3,ORD-1030,Books,Books Item 1,14,77.78,1088.92,North America,108.89,3.6
+2024-02-4,ORD-1031,Electronics,Electronics Item 9,5,50.39,251.95,Asia,25.20,3.8
+2024-02-5,ORD-1032,Clothing,Clothing Item 10,15,35.89,538.35,South America,53.84,4.2
+2024-02-6,ORD-1033,Clothing,Clothing Item 3,6,92.59,555.54,North America,55.55,4.6
+2024-02-7,ORD-1034,Toys,Toys Item 6,5,49.37,246.85,Asia,24.69,5.0
+2024-02-8,ORD-1035,Toys,Toys Item 3,8,87.25,698.00,South America,69.80,4.7
+2024-02-9,ORD-1036,Clothing,Clothing Item 9,10,34.81,348.10,Asia,34.81,4.3
+2024-02-10,ORD-1037,Electronics,Electronics Item 10,12,77.69,932.28,South America,93.23,3.0
+2024-02-11,ORD-1038,Clothing,Clothing Item 3,3,34.11,102.33,Asia,10.23,4.5
+2024-02-12,ORD-1039,Books,Books Item 6,7,79.04,553.28,Asia,55.33,3.4
+2024-02-13,ORD-1040,Clothing,Clothing Item 3,10,106.20,1062.00,North America,106.20,3.7
+2024-02-14,ORD-1041,Clothing,Clothing Item 3,8,12.37,98.96,Asia,9.90,3.9
+2024-02-15,ORD-1042,Electronics,Electronics Item 9,20,90.07,1801.40,Asia,180.14,3.4
+2024-02-16,ORD-1043,Home,Home Item 1,17,70.23,1193.91,North America,119.39,4.3
+2024-02-17,ORD-1044,Books,Books Item 8,9,55.26,497.34,Asia,49.73,4.9
+2024-02-18,ORD-1045,Electronics,Electronics Item 10,11,69.60,765.60,North America,76.56,4.9
+2024-02-19,ORD-1046,Books,Books Item 6,7,38.48,269.36,North America,26.94,4.6
+2024-02-20,ORD-1047,Electronics,Electronics Item 5,17,21.26,361.42,South America,36.14,4.9
+2024-02-21,ORD-1048,Clothing,Clothing Item 4,20,83.76,1675.20,Europe,167.52,3.4
+2024-02-22,ORD-1049,Books,Books Item 3,10,22.26,222.60,North America,22.26,4.3
+2024-02-23,ORD-1050,Books,Books Item 1,10,72.66,726.60,Europe,72.66,4.2
+2024-02-24,ORD-1051,Books,Books Item 10,10,65.50,655.00,South America,65.50,4.8
+2024-02-25,ORD-1052,Home,Home Item 4,10,90.68,906.80,North America,90.68,4.3
+2024-02-26,ORD-1053,Home,Home Item 2,6,104.47,626.82,South America,62.68,3.3
+2024-02-27,ORD-1054,Toys,Toys Item 4,16,31.48,503.68,Asia,50.37,3.0
+2024-02-28,ORD-1055,Electronics,Electronics Item 6,14,34.55,483.70,Europe,48.37,4.3
+2024-02-1,ORD-1056,Books,Books Item 6,7,102.64,718.48,North America,71.85,3.5
+2024-02-2,ORD-1057,Clothing,Clothing Item 9,18,85.84,1545.12,Europe,154.51,4.3
+2024-02-3,ORD-1058,Clothing,Clothing Item 10,20,109.88,2197.60,Asia,219.76,4.7
+2024-02-4,ORD-1059,Toys,Toys Item 5,6,80.02,480.12,North America,48.01,4.9
+2024-03-5,ORD-1060,Toys,Toys Item 3,10,56.86,568.60,Europe,56.86,4.9
+2024-03-6,ORD-1061,Clothing,Clothing Item 6,7,45.10,315.70,South America,31.57,3.5
+2024-03-7,ORD-1062,Clothing,Clothing Item 8,2,68.27,136.54,South America,13.65,4.6
+2024-03-8,ORD-1063,Clothing,Clothing Item 4,19,98.50,1871.50,South America,187.15,3.9
+2024-03-9,ORD-1064,Electronics,Electronics Item 6,1,97.54,97.54,Europe,9.75,5.0
+2024-03-10,ORD-1065,Toys,Toys Item 5,11,50.91,560.01,North America,56.00,3.0
+2024-03-11,ORD-1066,Clothing,Clothing Item 6,17,11.17,189.89,South America,18.99,4.2
+2024-03-12,ORD-1067,Electronics,Electronics Item 3,7,83.60,585.20,North America,58.52,3.0
+2024-03-13,ORD-1068,Books,Books Item 10,15,31.38,470.70,Europe,47.07,4.9
+2024-03-14,ORD-1069,Electronics,Electronics Item 4,13,99.87,1298.31,Europe,129.83,3.8
+2024-03-15,ORD-1070,Home,Home Item 4,3,29.84,89.52,Asia,8.95,5.0
+2024-03-16,ORD-1071,Electronics,Electronics Item 7,2,20.81,41.62,South America,4.16,3.9
+2024-03-17,ORD-1072,Clothing,Clothing Item 6,18,25.76,463.68,South America,46.37,4.2
+2024-03-18,ORD-1073,Toys,Toys Item 10,7,77.41,541.87,Asia,54.19,4.7
+2024-03-19,ORD-1074,Home,Home Item 5,14,69.67,975.38,South America,97.54,4.9
+2024-03-20,ORD-1075,Books,Books Item 3,19,90.28,1715.32,Asia,171.53,4.2
+2024-03-21,ORD-1076,Toys,Toys Item 5,20,45.26,905.20,North America,90.52,3.2
+2024-03-22,ORD-1077,Clothing,Clothing Item 7,3,52.60,157.80,South America,15.78,4.9
+2024-03-23,ORD-1078,Home,Home Item 6,6,21.70,130.20,North America,13.02,4.0
+2024-03-24,ORD-1079,Books,Books Item 7,1,22.07,22.07,Asia,2.21,3.7
+2024-03-25,ORD-1080,Home,Home Item 2,20,77.61,1552.20,South America,155.22,3.2
+2024-03-26,ORD-1081,Books,Books Item 7,11,86.39,950.29,Asia,95.03,3.1
+2024-03-27,ORD-1082,Electronics,Electronics Item 10,7,43.42,303.94,South America,30.39,3.4
+2024-03-28,ORD-1083,Electronics,Electronics Item 9,5,45.86,229.30,Europe,22.93,4.5
+2024-03-1,ORD-1084,Toys,Toys Item 6,3,79.98,239.94,South America,23.99,3.3
+2024-03-2,ORD-1085,Clothing,Clothing Item 2,5,37.18,185.90,North America,18.59,4.2
+2024-03-3,ORD-1086,Clothing,Clothing Item 3,4,62.45,249.80,North America,24.98,3.7
+2024-03-4,ORD-1087,Electronics,Electronics Item 2,20,69.42,1388.40,Europe,138.84,3.7
+2024-03-5,ORD-1088,Electronics,Electronics Item 6,19,23.07,438.33,South America,43.83,4.9
+2024-03-6,ORD-1089,Home,Home Item 1,14,95.69,1339.66,Asia,133.97,3.4
+2024-04-7,ORD-1090,Clothing,Clothing Item 10,4,31.29,125.16,Asia,12.52,3.1
+2024-04-8,ORD-1091,Home,Home Item 4,7,73.01,511.07,Europe,51.11,4.4
+2024-04-9,ORD-1092,Books,Books Item 2,20,61.46,1229.20,Europe,122.92,4.0
+2024-04-10,ORD-1093,Clothing,Clothing Item 8,2,39.04,78.08,North America,7.81,4.4
+2024-04-11,ORD-1094,Clothing,Clothing Item 5,2,96.77,193.54,Asia,19.35,4.9
+2024-04-12,ORD-1095,Books,Books Item 2,6,47.61,285.66,North America,28.57,3.6
+2024-04-13,ORD-1096,Clothing,Clothing Item 5,4,99.69,398.76,North America,39.88,4.8
+2024-04-14,ORD-1097,Toys,Toys Item 1,1,26.70,26.70,Asia,2.67,4.9
+2024-04-15,ORD-1098,Home,Home Item 10,15,108.01,1620.15,Asia,162.02,3.6
+2024-04-16,ORD-1099,Toys,Toys Item 1,9,99.89,899.01,Europe,89.90,4.9
+2024-04-17,ORD-1100,Home,Home Item 1,14,75.30,1054.20,Asia,105.42,3.8
+2024-04-18,ORD-1101,Toys,Toys Item 1,3,102.17,306.51,North America,30.65,4.9
+2024-04-19,ORD-1102,Books,Books Item 9,7,50.76,355.32,Europe,35.53,3.8
+2024-04-20,ORD-1103,Clothing,Clothing Item 9,16,27.84,445.44,South America,44.54,3.6
+2024-04-21,ORD-1104,Electronics,Electronics Item 9,2,74.29,148.58,Europe,14.86,4.0
+2024-04-22,ORD-1105,Home,Home Item 4,11,14.99,164.89,Europe,16.49,3.7
+2024-04-23,ORD-1106,Toys,Toys Item 3,11,48.14,529.54,South America,52.95,4.8
+2024-04-24,ORD-1107,Electronics,Electronics Item 7,17,68.38,1162.46,Europe,116.25,3.2
+2024-04-25,ORD-1108,Books,Books Item 6,1,38.72,38.72,South America,3.87,4.7
+2024-04-26,ORD-1109,Clothing,Clothing Item 6,6,15.30,91.80,Asia,9.18,3.6
+2024-04-27,ORD-1110,Toys,Toys Item 6,4,85.01,340.04,Asia,34.00,5.0
+2024-04-28,ORD-1111,Home,Home Item 5,9,48.32,434.88,Asia,43.49,4.9
+2024-04-1,ORD-1112,Home,Home Item 4,7,84.16,589.12,Europe,58.91,3.2
+2024-04-2,ORD-1113,Toys,Toys Item 9,11,81.05,891.55,Asia,89.16,4.8
+2024-04-3,ORD-1114,Toys,Toys Item 7,5,103.46,517.30,South America,51.73,4.1
+2024-04-4,ORD-1115,Home,Home Item 9,5,85.00,425.00,South America,42.50,4.1
+2024-04-5,ORD-1116,Electronics,Electronics Item 7,6,83.55,501.30,South America,50.13,5.0
+2024-04-6,ORD-1117,Toys,Toys Item 4,10,55.20,552.00,Asia,55.20,4.7
+2024-04-7,ORD-1118,Clothing,Clothing Item 2,12,56.81,681.72,Asia,68.17,3.4
+2024-04-8,ORD-1119,Clothing,Clothing Item 7,4,23.70,94.80,North America,9.48,4.0
+2024-05-9,ORD-1120,Books,Books Item 5,2,71.66,143.32,South America,14.33,5.0
+2024-05-10,ORD-1121,Clothing,Clothing Item 10,13,102.06,1326.78,North America,132.68,4.1
+2024-05-11,ORD-1122,Electronics,Electronics Item 4,19,28.94,549.86,South America,54.99,3.9
+2024-05-12,ORD-1123,Clothing,Clothing Item 1,3,45.59,136.77,South America,13.68,3.1
+2024-05-13,ORD-1124,Books,Books Item 1,8,13.47,107.76,South America,10.78,3.3
+2024-05-14,ORD-1125,Toys,Toys Item 10,15,69.28,1039.20,Europe,103.92,3.3
+2024-05-15,ORD-1126,Home,Home Item 1,19,87.65,1665.35,South America,166.53,3.4
+2024-05-16,ORD-1127,Electronics,Electronics Item 5,15,38.41,576.15,South America,57.62,4.7
+2024-05-17,ORD-1128,Home,Home Item 5,14,28.21,394.94,Europe,39.49,3.8
+2024-05-18,ORD-1129,Books,Books Item 10,9,52.59,473.31,Asia,47.33,3.2
+2024-05-19,ORD-1130,Electronics,Electronics Item 6,12,32.40,388.80,North America,38.88,3.1
+2024-05-20,ORD-1131,Clothing,Clothing Item 8,3,109.03,327.09,Asia,32.71,3.0
+2024-05-21,ORD-1132,Electronics,Electronics Item 3,5,15.99,79.95,Europe,8.00,3.0
+2024-05-22,ORD-1133,Clothing,Clothing Item 10,13,19.42,252.46,South America,25.25,4.5
+2024-05-23,ORD-1134,Clothing,Clothing Item 4,1,54.46,54.46,South America,5.45,3.8
+2024-05-24,ORD-1135,Toys,Toys Item 9,17,18.48,314.16,Europe,31.42,4.4
+2024-05-25,ORD-1136,Electronics,Electronics Item 5,2,108.21,216.42,North America,21.64,4.2
+2024-05-26,ORD-1137,Electronics,Electronics Item 8,16,109.81,1756.96,North America,175.70,4.0
+2024-05-27,ORD-1138,Clothing,Clothing Item 6,10,45.38,453.80,South America,45.38,4.9
+2024-05-28,ORD-1139,Electronics,Electronics Item 9,7,79.79,558.53,Asia,55.85,3.6
+2024-05-1,ORD-1140,Books,Books Item 5,6,63.57,381.42,South America,38.14,3.3
+2024-05-2,ORD-1141,Home,Home Item 7,4,80.17,320.68,South America,32.07,3.1
+2024-05-3,ORD-1142,Electronics,Electronics Item 9,1,93.45,93.45,South America,9.35,3.4
+2024-05-4,ORD-1143,Clothing,Clothing Item 10,1,81.53,81.53,Europe,8.15,4.0
+2024-05-5,ORD-1144,Electronics,Electronics Item 9,17,62.77,1067.09,Asia,106.71,3.1
+2024-05-6,ORD-1145,Toys,Toys Item 1,1,32.84,32.84,South America,3.28,4.0
+2024-05-7,ORD-1146,Home,Home Item 5,7,32.97,230.79,North America,23.08,4.6
+2024-05-8,ORD-1147,Toys,Toys Item 7,8,45.84,366.72,South America,36.67,3.9
+2024-05-9,ORD-1148,Toys,Toys Item 1,14,43.34,606.76,Europe,60.68,4.6
+2024-05-10,ORD-1149,Home,Home Item 1,11,50.33,553.63,Asia,55.36,3.1
+2024-06-11,ORD-1150,Books,Books Item 7,9,29.58,266.22,South America,26.62,3.3
+2024-06-12,ORD-1151,Home,Home Item 7,18,70.70,1272.60,Asia,127.26,3.3
+2024-06-13,ORD-1152,Books,Books Item 3,10,98.04,980.40,North America,98.04,3.4
+2024-06-14,ORD-1153,Electronics,Electronics Item 2,4,54.98,219.92,Asia,21.99,4.2
+2024-06-15,ORD-1154,Home,Home Item 3,8,37.84,302.72,South America,30.27,4.4
+2024-06-16,ORD-1155,Electronics,Electronics Item 10,18,50.63,911.34,North America,91.13,4.4
+2024-06-17,ORD-1156,Toys,Toys Item 5,12,53.07,636.84,South America,63.68,4.0
+2024-06-18,ORD-1157,Electronics,Electronics Item 10,3,75.81,227.43,South America,22.74,4.3
+2024-06-19,ORD-1158,Electronics,Electronics Item 4,10,100.75,1007.50,Europe,100.75,3.1
+2024-06-20,ORD-1159,Toys,Toys Item 8,11,99.16,1090.76,Europe,109.08,3.7
+2024-06-21,ORD-1160,Clothing,Clothing Item 10,9,56.34,507.06,South America,50.71,3.4
+2024-06-22,ORD-1161,Books,Books Item 4,18,79.26,1426.68,Europe,142.67,4.1
+2024-06-23,ORD-1162,Home,Home Item 1,19,105.48,2004.12,Asia,200.41,4.2
+2024-06-24,ORD-1163,Toys,Toys Item 6,15,60.44,906.60,North America,90.66,3.9
+2024-06-25,ORD-1164,Electronics,Electronics Item 5,8,52.13,417.04,North America,41.70,4.9
+2024-06-26,ORD-1165,Electronics,Electronics Item 7,19,76.75,1458.25,Europe,145.83,4.8
+2024-06-27,ORD-1166,Home,Home Item 3,17,41.39,703.63,South America,70.36,3.8
+2024-06-28,ORD-1167,Books,Books Item 7,3,31.19,93.57,Europe,9.36,4.1
+2024-06-1,ORD-1168,Toys,Toys Item 7,9,49.64,446.76,South America,44.68,4.5
+2024-06-2,ORD-1169,Clothing,Clothing Item 2,3,81.88,245.64,Europe,24.56,3.8
+2024-06-3,ORD-1170,Home,Home Item 4,2,39.71,79.42,North America,7.94,3.6
+2024-06-4,ORD-1171,Electronics,Electronics Item 1,12,19.36,232.32,South America,23.23,4.7
+2024-06-5,ORD-1172,Books,Books Item 6,14,105.82,1481.48,Europe,148.15,4.7
+2024-06-6,ORD-1173,Clothing,Clothing Item 6,4,61.30,245.20,Europe,24.52,4.9
+2024-06-7,ORD-1174,Electronics,Electronics Item 2,15,53.73,805.95,South America,80.60,4.9
+2024-06-8,ORD-1175,Electronics,Electronics Item 3,6,42.64,255.84,Europe,25.58,4.8
+2024-06-9,ORD-1176,Books,Books Item 9,17,84.56,1437.52,Asia,143.75,4.0
+2024-06-10,ORD-1177,Home,Home Item 9,6,104.31,625.86,North America,62.59,4.9
+2024-06-11,ORD-1178,Home,Home Item 1,14,15.65,219.10,South America,21.91,3.1
+2024-06-12,ORD-1179,Clothing,Clothing Item 2,4,84.97,339.88,Europe,33.99,4.0
+2024-07-13,ORD-1180,Clothing,Clothing Item 1,7,51.50,360.50,Europe,36.05,3.9
+2024-07-14,ORD-1181,Home,Home Item 4,6,68.61,411.66,South America,41.17,4.6
+2024-07-15,ORD-1182,Clothing,Clothing Item 3,3,50.40,151.20,South America,15.12,3.3
+2024-07-16,ORD-1183,Clothing,Clothing Item 10,15,32.14,482.10,North America,48.21,4.1
+2024-07-17,ORD-1184,Toys,Toys Item 2,20,57.69,1153.80,Asia,115.38,3.9
+2024-07-18,ORD-1185,Clothing,Clothing Item 3,5,66.67,333.35,South America,33.34,3.0
+2024-07-19,ORD-1186,Toys,Toys Item 6,3,41.06,123.18,North America,12.32,4.0
+2024-07-20,ORD-1187,Home,Home Item 4,5,42.69,213.45,Europe,21.34,3.4
+2024-07-21,ORD-1188,Home,Home Item 2,18,55.24,994.32,Europe,99.43,4.2
+2024-07-22,ORD-1189,Clothing,Clothing Item 10,8,60.15,481.20,South America,48.12,4.1
+2024-07-23,ORD-1190,Clothing,Clothing Item 5,5,72.48,362.40,South America,36.24,4.8
+2024-07-24,ORD-1191,Books,Books Item 6,20,74.62,1492.40,Asia,149.24,3.8
+2024-07-25,ORD-1192,Clothing,Clothing Item 2,10,65.08,650.80,North America,65.08,3.1
+2024-07-26,ORD-1193,Electronics,Electronics Item 10,15,39.74,596.10,Asia,59.61,3.4
+2024-07-27,ORD-1194,Electronics,Electronics Item 7,9,23.00,207.00,Asia,20.70,4.8
+2024-07-28,ORD-1195,Toys,Toys Item 8,16,14.70,235.20,South America,23.52,4.7
+2024-07-1,ORD-1196,Books,Books Item 3,1,85.42,85.42,North America,8.54,4.7
+2024-07-2,ORD-1197,Toys,Toys Item 3,10,54.40,544.00,Asia,54.40,4.6
+2024-07-3,ORD-1198,Books,Books Item 10,7,69.61,487.27,Europe,48.73,3.8
+2024-07-4,ORD-1199,Toys,Toys Item 8,2,43.38,86.76,Asia,8.68,3.9
